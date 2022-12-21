@@ -1,11 +1,11 @@
 {
-    "name": "Random Number Generator",
-    "short_name": "random_numbers",
+    "name": "flutter_application_1",
+    "short_name": "flutter_application_1",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Basic Random Number Generator",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
